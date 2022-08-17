@@ -16,6 +16,8 @@ export default function Inicio() {
             <Navegador texto="Navegação #02" destino='/cliente/mg/256'  cor="green" />
             <Navegador texto="Componente com Estado" destino='/estado'  cor="#F65A83" />
             <Navegador texto="Integração com API #01" destino='/integracao_1'  cor="blue" />
+            <Navegador texto="Conteúdo Estático" destino='/estatico'  cor="#7b2cbf" />
+            <Navegador texto="Conteúdo Dinâmico" destino='/dinamico'  cor="#fb8500" />
         </div>
         )
 }
